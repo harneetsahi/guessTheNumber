@@ -1,3 +1,5 @@
-# Guess the number game using vanilla JavaScript
+# Guess the number game
+
+### vanilla JavaScript
 
 Deployed: https://harneetsahi.github.io/guessTheNumber/
