@@ -1,5 +1,5 @@
 # Guess the number game
 
-### vanilla JavaScript
+### Languages: HTML, CSS, JavaScript
 
 Deployed: https://harneetsahi.github.io/guessTheNumber/
